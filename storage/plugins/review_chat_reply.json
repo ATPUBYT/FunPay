@@ -1,0 +1,34 @@
+{
+    "on_feedback_changed": false,
+    "watermark": false,
+    "1": {
+        "enable": false,
+        "text": "",
+        "title": "⭐"
+    },
+    "2": {
+        "enable": false,
+        "text": "",
+        "title": "⭐⭐"
+    },
+    "3": {
+        "enable": false,
+        "text": "",
+        "title": "⭐⭐⭐"
+    },
+    "4": {
+        "enable": false,
+        "text": "",
+        "title": "⭐⭐⭐⭐"
+    },
+    "5": {
+        "enable": true,
+        "text": "$game",
+        "title": "⭐⭐⭐⭐⭐"
+    },
+    "6": {
+        "enable": false,
+        "text": "",
+        "title": "🗑"
+    }
+}
